@@ -1,0 +1,12 @@
+[package]
+authors = ["Kyle Partridge <kyle.partridge@sendgrid.com>"]
+name = "cephalopod"
+version = "0.1.0"
+[dependencies]
+actix = "*"
+actix-web = "*"
+env_logger = "*"
+futures = "*"
+serde = "*"
+serde_derive = "*"
+sha1 = "*"
